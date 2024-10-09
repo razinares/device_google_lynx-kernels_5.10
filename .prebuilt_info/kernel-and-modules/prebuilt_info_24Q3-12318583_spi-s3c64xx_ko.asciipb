@@ -1,0 +1,11 @@
+drops {
+  android_build_drop {
+    build_id: "12318583"
+    target: "lynx"
+    source_file: "spi-s3c64xx.ko"
+  }
+  dest_file: "24Q3-12318583/spi-s3c64xx.ko"
+  version: "12318583"
+  version_group: "kernel-and-modules"
+  git_project: "device/google/lynx-kernels/5.10"
+}

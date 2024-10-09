@@ -1,0 +1,11 @@
+drops {
+  android_build_drop {
+    build_id: "12318583"
+    target: "lynx_debug_locking"
+    source_file: "max77759_charger.ko"
+  }
+  dest_file: "24Q3-12318583/debug_locking/max77759_charger.ko"
+  version: "12318583"
+  version_group: "kernel-and-modules"
+  git_project: "device/google/lynx-kernels/5.10"
+}

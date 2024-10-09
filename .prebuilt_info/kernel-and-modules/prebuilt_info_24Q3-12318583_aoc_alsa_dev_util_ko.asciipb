@@ -1,0 +1,11 @@
+drops {
+  android_build_drop {
+    build_id: "12318583"
+    target: "lynx"
+    source_file: "aoc_alsa_dev_util.ko"
+  }
+  dest_file: "24Q3-12318583/aoc_alsa_dev_util.ko"
+  version: "12318583"
+  version_group: "kernel-and-modules"
+  git_project: "device/google/lynx-kernels/5.10"
+}

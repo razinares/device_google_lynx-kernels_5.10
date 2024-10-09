@@ -1,0 +1,11 @@
+drops {
+  android_build_drop {
+    build_id: "12318583"
+    target: "lynx"
+    source_file: "gs201-b0_v2-ipop.dtb"
+  }
+  dest_file: "24Q3-12318583/gs201-b0_v2-ipop.dtb"
+  version: "12318583"
+  version_group: "kernel-and-modules"
+  git_project: "device/google/lynx-kernels/5.10"
+}
